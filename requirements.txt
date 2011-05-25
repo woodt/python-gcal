@@ -1,0 +1,4 @@
+elementtree==1.2.7-20070827-preview
+gdata==2.0.14
+icalendar==2.1
+iso8601==0.1.4
